@@ -1,6 +1,6 @@
 print("School age calculator")
-name = input("type your name : ")
-age = int(input("type your age : "))
+name = input("Type your name : ")
+age = int(input("Type your age : "))
 
 if age <5:
     print(name,"should be in nursery")
